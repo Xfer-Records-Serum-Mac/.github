@@ -25,7 +25,7 @@
 The <a href="#">visual wavetable editor</a> displays the waveform shape as a directly editable visual object — draw custom waveforms from scratch, import audio files and extract wavetables from them, apply spectral processing to existing wavetables, and morph between waveform shapes to create evolving timbral content. The visual approach to wavetable creation makes intuitive what other synthesizers require mathematical understanding to achieve. <a href="#">Dual oscillator architecture</a> provides two wavetable oscillators with independent wavetable selection, position control, and spectral processing alongside a sub oscillator for low-frequency foundational support and a noise oscillator for texture and air.
 
 <p align="center">
-  <img src="https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/X/XferRecordsSerum_01-BaiyrFSSGZdnz250Jrhjv8C.4w.hlz4..jpg" alt="Xfer Records Serum screenshot"/>
+  <img src="https://xferrecords.com/assets/products-large/serum2_promo-3a72f21c8e6c81f5c65d1949cf6cd846cc793ad00def69d9ca18f46614f98778.png"/>
 </p>
 
 <a href="#">Drag-and-drop modulation system</a> connects any modulation source — LFO, envelope, macro, velocity, note expression, or MIDI CC — to any modulatable parameter by dragging from the source to the destination. The visual modulation amount display shows every parameter's current modulation assignments and their amounts simultaneously, making complex modulation relationships comprehensible at a glance. <a href="#">Matrix display</a> lists all active modulation assignments in a table for systematic review and editing of complex modulation setups.
